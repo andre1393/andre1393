@@ -16,8 +16,8 @@ I'm intersted in Machine Learning and Data Science, specially the challenges rel
 🟧 ML end to end (Data Acquisition, transformation, model training, monitoring, automatic retraining, drift detection)<br>
 🟨 Programming Languages: Python, Java, Kotlin, C/C++<br>
 🟥 AWS (S3, IAM, ECS, EKS, Sagemaker, EC2, Lambda, Redshift, Kinesis)<br>
-🟦 Kafka, Kafka Streaming, Kafka Connect
-🟫 Docker, Terraform, Kubernetes, CI/CD
+🟦 Kafka, Kafka Streaming, Kafka Connect<br>
+🟫 Docker, Terraform, Kubernetes, CI/CD<br>
 ⬜ Postgres, MySQL, RDS, CassandraDB
 
 ### Projects
