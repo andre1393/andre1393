@@ -20,6 +20,10 @@ I'm intersted in Machine Learning and Data Science, specially the challenges rel
 🟫 Docker, Terraform, Kubernetes, CI/CD<br>
 ⬜ Postgres, MySQL, RDS, CassandraDB
 
+<p align="left">
+  <img src="images/chart.png" width="350" title="skill radar chart">
+</p>
+
 ### Projects
 🔷 Machine Learning algorithms implemented from scratch: [mlkit](https://github.com/andre1393/mlkit)<br>
 🔶 Serving a ML model API using the best practices: [fashion-mnist](https://github.com/andre1393/fashion-mnist)<br>
