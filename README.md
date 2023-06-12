@@ -28,3 +28,11 @@ I'm intersted in Machine Learning and Data Science, specially the challenges rel
 🔷 Machine Learning algorithms implemented from scratch: [mlkit](https://github.com/andre1393/mlkit)<br>
 🔶 Serving a ML model API using the best practices: [fashion-mnist](https://github.com/andre1393/fashion-mnist)<br>
 🔷 Service API to apply noise reduction to audios: [noise-reduction](https://github.com/andre1393/noise-reduction)
+
+### Blog Articles/Presentations
+[<img src="https://emojis.slackmojis.com/emojis/images/1487135004/1757/youtube.png?1487135004" width="15"/> [PT-BR] Python Brasil 2022 - Terminei a modelage, e agora? feat Vivian Yamassaki](https://youtu.be/faXgMxy6NUw)<br>
+[<img src="https://cdn6.aptoide.com/imgs/e/9/f/e9fd843a6896bf6f140f510bae41a412_icon.png?w=128" width="15"> [PT-BR] Nossos primeiros passos para escalar a produção de modelos de Data Science](https://medium.com/creditas-tech/nossos-primeiros-passos-para-escalar-a-produ%C3%A7%C3%A3o-de-modelos-de-data-science-b43ba330e935)<br>
+[<img src="https://cdn6.aptoide.com/imgs/e/9/f/e9fd843a6896bf6f140f510bae41a412_icon.png?w=128" width="15"> [PT-BR] Terminei a modelagem, e agora? — Parte II](https://medium.com/creditas-tech/terminei-a-modelagem-e-agora-parte-ii-8fb75280bdc6)<br>
+  
+### Contact
+[<image src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> andreoliveiradasilva](https://www.linkedin.com/in/andreoliveiradasilva/)<br><br>
